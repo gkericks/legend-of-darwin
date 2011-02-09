@@ -1,0 +1,18 @@
+#summary Details
+
+=== Game Mechanics ===
+  * Multiple Zombeh AI
+  * Tile-based
+  * Darwin/Zarwin
+  * Humanity Bar
+  * Stages
+    * level 1, 2, 3 cutscene, save
+ 
+=== Tasks ===
+  ==== Jeff ====
+    * Textures
+    * Tile-based level setup
+  ==== Marli ====
+  ==== Ryan ====
+  ==== Brittney ====
+  ==== Graham ====
