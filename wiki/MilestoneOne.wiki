@@ -19,6 +19,10 @@
       # Giftshop
       # Lobby
   ==== Marli ====
+    * Darwin/Zarwin
   ==== Ryan ====
+    * Events
   ==== Brittney ====
+    * Collisions
   ==== Graham ====
+    * Zombie AI
