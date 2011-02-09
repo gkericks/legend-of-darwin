@@ -12,6 +12,12 @@
   ==== Jeff ====
     * Textures
     * Tile-based level setup
+      # Containment
+      # Security
+      # Hallway
+      # Cafeteria/Hallway#2
+      # Giftshop
+      # Lobby
   ==== Marli ====
   ==== Ryan ====
   ==== Brittney ====
