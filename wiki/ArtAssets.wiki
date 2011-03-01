@@ -1,0 +1,10 @@
+#summary One-gonna put some info about the art assets here
+
+= Introduction =
+
+Some first draft sprite strips have been made.
+
+
+= Details =
+
+They are 191 / 64 long. so each image should be 64 x 64. 
