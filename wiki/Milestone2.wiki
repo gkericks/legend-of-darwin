@@ -1,0 +1,53 @@
+#summary One-sentence summary of this page.
+
+=Milestone 2=
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+= Zombies =
+
+Zombies from the brainstorm:
+ * red zombie
+ * fast zombie
+ * smart zombie
+ * blind zombie
+ * conga zombie/worm zombie line
+ * lone-star zombies vs pack zombies
+ * cannibal zombies  "cannibal with regular zombies". he doesn't care for humans, only zombies
+ * slime zombie with trail 
+ * teleporting zombie
+ * king zombie, all the zombie love him (elvis?) ** final boss?
+ * ghost zombie
+ * baby zombie ** 
+ * mommy zombie
+ * mommy zombie with babies following, like baby ducks. darwin can walk over babies to squish, but that enrages mommy zombie
+ * raptor zombie
+ * robot zombie
+ * scared zombies
+ * liger/tigon zombies
+ * sleeping track star zombie...don't walk on the dry leaves (or whatever "flag" to wake him up) ** "sneaking level"
+ * pirate zombie
+ * ninja zombie
+ * mickey mouse zombie
+ * zombie that ride stuff
+ * zombies that jump
+ * zombies with balloons
+ * zombies that throw little zombies
+ * armoured zombies
+ * exploding zombies ** (in boss level)
+
+= Levels =
+
+ # tutorial 
+ # sneaking around
+ # cannibals
+ # ?
+ # ?
+ # boss level
+
+= Game Updates =
+
+= Graphics =
