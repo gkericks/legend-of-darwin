@@ -1,10 +1,3 @@
-=Milestone 2=
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
 = Zombies =
 
 Probably do a bug2 for a zombie AI path planning
