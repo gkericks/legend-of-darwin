@@ -9,6 +9,8 @@ Add your content here.  Format your content with:
 
 = Zombies =
 
+Probably do a bug2 for a zombie AI path planning
+
 Zombies from the brainstorm:
  * red zombie
  * fast zombie
@@ -38,8 +40,14 @@ Zombies from the brainstorm:
  * zombies that throw little zombies
  * armoured zombies
  * exploding zombies ** (in boss level)
+ * giant zombie - 4 squares, final boss "lure in exploding zombies for him to eat"
+ * basic zombie - can optimize him a bit 
+
 
 = Levels =
+
+Need a different way of building levels - we are hard coding right now
+- Level class?
 
  # tutorial 
  # sneaking around
@@ -48,6 +56,21 @@ Zombies from the brainstorm:
  # ?
  # boss level
 
+Maze level with toxic surroundings?
+Kill everything in room to continue?
+
 = Game Updates =
 
+ * if we have switches, do we need keys? do we add more inventory? Yes, if we need to!
+ * implement the vortex
+ * darwin pushing blocks?
+ * brain image strip - its life goes down
+
+
 = Graphics =
+
+ * make new tiles
+ * make the game look more like a lab. 
+ * separate menu area away from "walls"
+ * need to put health at bottom menu
+ * graphics for menu need to be made
