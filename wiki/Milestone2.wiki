@@ -33,6 +33,8 @@ Zombies from the brainstorm:
  * exploding zombies ** (in boss level)
  * giant zombie - 4 squares, final boss "lure in exploding zombies for him to eat"
  * basic zombie - can optimize him a bit 
+ * two zombie gangs that dont like each other
+
 
 
 = Levels =
