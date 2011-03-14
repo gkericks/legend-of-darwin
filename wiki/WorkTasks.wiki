@@ -5,12 +5,12 @@
 If you are working on a task, put your name beside it. 
 If you are done a task, ~~cross out~~ the task and put your name beside a new one.
 
- * Vortex object
- * Cannibal Zombie
- * Speedy Sleeping Zombie
- * Potion Object
+ * Vortex object _marli_
+ * Cannibal Zombie _graham_
+ * Speedy Sleeping Zombie _ryan_
+ * Potion Object 
  * Add potion to all levels
- * Fix Brain bug
+ * Fix Brain bug _jeff_
  * Level 2 layout (add walls, boxes, vortexes, switches, brain, etc)
  * Level 3 layout (add walls, boxes, vortexes, switches, brain etc)
  * Leafs Object
