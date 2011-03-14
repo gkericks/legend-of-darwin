@@ -1,0 +1,20 @@
+#summary Who us doing what
+
+= Tasks =
+
+If you are working on a task, put your name beside it. 
+If you are done a task, ~~cross out~~ the task and put your name beside a new one.
+
+ * Vortex object
+ * Cannibal Zombie
+ * Speedy Sleeping Zombie
+ * Potion Object
+ * Add potion to all levels
+ * Fix Brain bug
+ * Level 2 layout (add walls, boxes, vortexes, switches, brain, etc)
+ * Level 3 layout (add walls, boxes, vortexes, switches, brain etc)
+ * Leafs Object
+ * Add Leafs to level 3
+ * Add multiple 'regular zombies' to Level 2
+
+Feel free to add any more tasks.
