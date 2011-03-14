@@ -1,4 +1,4 @@
-#summary Who us doing what
+#summary Who is doing what
 
 = Tasks =
 
