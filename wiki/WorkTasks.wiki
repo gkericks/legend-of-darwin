@@ -8,9 +8,9 @@ If you are done a task, ~~cross out~~ the task and put your name beside a new on
  * Vortex object _marli_
  * Cannibal Zombie _graham_
  * Speedy Sleeping Zombie _ryan_
- * Potion Object 
- * Add potion to all levels
- * Fix Brain bug _jeff_
+ * Potion Object _jeff_
+ * Add potion to all levels _jeff_
+ * Fix Brain bug _jeff_ DONE
  * Level 2 layout (add walls, boxes, vortexes, switches, brain, etc)
  * Level 3 layout (add walls, boxes, vortexes, switches, brain etc)
  * Leafs Object
