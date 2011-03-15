@@ -13,7 +13,7 @@ If you are done a task, ~~cross out~~ the task and put your name beside a new on
  * ~~Fix Brain bug~~ _jeff_
  * Level 2 layout (add walls, boxes, vortexes, switches, brain, etc)
  * Level 3 layout (add walls, boxes, vortexes, switches, brain etc)
- * Leafs Object
+ * Leafs Object _ryan_
  * Add Leafs to level 3
  * Add multiple 'regular zombies' to Level 2
  * ~~fix bug where darwin is killed by zombies as a zombie~~
