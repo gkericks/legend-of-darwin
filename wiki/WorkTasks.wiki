@@ -16,6 +16,6 @@ If you are done a task, ~~cross out~~ the task and put your name beside a new on
  * Leafs Object
  * Add Leafs to level 3
  * Add multiple 'regular zombies' to Level 2
- * fix bug where darwin is killed by zombies as a zombie
+ * ~~fix bug where darwin is killed by zombies as a zombie~~
 
 Feel free to add any more tasks.
