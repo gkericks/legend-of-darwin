@@ -11,8 +11,8 @@ If you are done a task, ~~cross out~~ the task and put your name beside a new on
  * Potion Object _jeff_
  * Add potion to all levels _jeff_
  * ~~Fix Brain bug~~ _jeff_
- * Level 2 layout (add walls, boxes, vortexes, switches, brain, etc)
- * Level 3 layout (add walls, boxes, vortexes, switches, brain etc)
+ * Level 2 layout (add walls, boxes, vortexes, switches, brain, etc) _britt_
+ * Level 3 layout (add walls, boxes, vortexes, switches, brain etc) _britt_
  * Leafs Object _ryan_
  * Add Leafs to level 3
  * Add multiple 'regular zombies' to Level 2
