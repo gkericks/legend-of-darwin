@@ -15,7 +15,7 @@ If you are done a task, ~~cross out~~ the task and put your name beside a new on
  * Level 3 layout (add walls, boxes, vortexes, switches, brain etc) _britt_
  * Leafs Object _ryan_
  * Add Leafs to level 3
- * Add multiple 'regular zombies' to Level 2
+ * Add multiple 'regular zombies' to Level 2 _britt_
  * ~~fix bug where darwin is killed by zombies as a zombie~~
  * fix bug where zombie kills darwin in cases where they are at least a square away
  * Fix potion - it disappears when Darwin walks over it _marli_
