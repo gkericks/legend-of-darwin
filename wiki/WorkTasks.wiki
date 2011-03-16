@@ -18,5 +18,6 @@ If you are done a task, ~~cross out~~ the task and put your name beside a new on
  * Add multiple 'regular zombies' to Level 2
  * ~~fix bug where darwin is killed by zombies as a zombie~~
  * fix bug where zombie kills darwin in cases where they are at least a square away
+ * Fix potion - it disappears when Darwin walks over it _marli_
 
 Feel free to add any more tasks.
