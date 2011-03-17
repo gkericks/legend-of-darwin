@@ -6,7 +6,8 @@ If you are working on a task, put your name beside it.
 If you are done a task, ~~cross out~~ the task and put your name beside a new one.
 
  * ~~Vortex object~~ _marli_
- * Cannibal Zombie _graham_
+ * ~~Cannibal Zombie~~ _graham_
+ * make cannibal's search(for going around walls) actually work _graham_ 
  * Speedy Sleeping Zombie _ryan_
  * ~~Potion Object~~ _jeff_
  * Add potion to all levels _jeff_
