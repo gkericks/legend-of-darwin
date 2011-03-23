@@ -33,4 +33,6 @@ When you're a zombie:
 
  * You get easily killed in this level
  * If this level is too easy, add random goo spots
- * If darwin is a zombie, then the snakes don;t attack you. Only implement this if there is no potion. 
+ * If darwin is a zombie, then the snakes don't attack you. Only implement this if there is no potion. 
+
+= Level 6: Final Boss =
