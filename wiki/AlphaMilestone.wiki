@@ -1,0 +1,16 @@
+= To Do =
+
+ * Improve level design
+ * Slow Human - Darwin down
+ * Slow zombie-darwin down even more
+ * Cue: what state is the zombies in? ...add noise. add exclamation mark and question mark.
+ * speed up default zombie
+
+= Level 4: Conga Line =
+
+If the head zombie see's you as a human, follower zombies attack
+
+If the head zombie see's you as a zombie, 
+
+ * conga leader zombie. Travels in patrol path (around switch?)
+ * follower zombies
