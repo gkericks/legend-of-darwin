@@ -47,6 +47,7 @@ When you're a zombie:
         # gape
     * he will only eat baby zombies when he is gapeing
     * cannot damage darwin as a zombie
+    * after eating 4 babies zombie, he dies
 
  * Baby Zombies
     * Two cribs, where the baby zombies keep coming out of
@@ -55,7 +56,6 @@ When you're a zombie:
     * these are CRAZY ZOMBIE BABIES
     * baby zombies follow darwin all the time, zombie or human
 
-Need to lead the baby zombies to the boss 
+Need to lead the baby zombies to the boss so he will eat them 
  * need to be a zombie near the boss, or else the boss will kill you
-
-
+ * if a baby zombie explodes near the boss, the boss is not damaged. 
