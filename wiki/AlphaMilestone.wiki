@@ -1,10 +1,14 @@
 = To Do =
 
- * Improve level design
- * Slow Human - Darwin down
+ * Improve level design on level 1-3
+ * Slow human-darwin down
  * Slow zombie-darwin down even more
- * Cue: what state is the zombies in? ...add noise. add exclamation mark and question mark.
- * speed up default zombie
+ * Cue: what state is the zombies in? 
+    * add noise when zombie sees darwin
+    * add exclamation mark when zombie sees darwin
+    * add question mark when zombies do not see darwin anymore
+ * Speed up default zombie
+ * Make the screen and grid size bigger
 
 = Level 4: Conga Line =
 
@@ -22,14 +26,14 @@ When you're a zombie:
 = Level 5: Flame Thrower =
 
  * Four flame throwing zombies 
-    * around perimeter of level
+    * Around perimeter of level
     * Can throw flames up to 3 grid squares
     * Will kill darwin in human or zombie form
  * Snake zombies:
-    * charge darwin at medium speed when on the same X or Y axis as them
-    * they want to push darwin towards the flame thrower
+    * Charge darwin at medium speed when on the same X or Y axis as them
+    * They want to push darwin towards the flame thrower
  * Block puzzle
-    * need to arrange blocks in the level to open the door
+    * Need to arrange blocks in the level to open the door
 
  * You get easily killed in this level
  * If this level is too easy, add random goo spots
@@ -56,6 +60,6 @@ When you're a zombie:
     * these are CRAZY ZOMBIE BABIES
     * baby zombies follow darwin all the time, zombie or human
 
-Need to lead the baby zombies to the boss so he will eat them 
- * need to be a zombie near the boss, or else the boss will kill you
- * if a baby zombie explodes near the boss, the boss is not damaged. 
+ * Need to lead the baby zombies to the boss so he will eat them 
+    * need to be a zombie near the boss, or else the boss will kill you
+    * if a baby zombie explodes near the boss, the boss is not damaged. 
