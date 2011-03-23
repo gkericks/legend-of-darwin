@@ -8,9 +8,29 @@
 
 = Level 4: Conga Line =
 
-If the head zombie see's you as a human, follower zombies attack
+If the any zombie see's you as a human, you dead.
+When you're a zombie:
+ * If you're on the dance floor, head zombie gets mad and kills you after 3 seconds
+ * If you're in the conga line, you're good.
+ * If you're in the conga line and you're too slow, head zombie kills you.
+ * Two switches, which each release caged zombies.
+ * Can only be human to turn switch on, so timing is key (can only turn on switch when the gap in the zombie line passes you)
+ * Each switch also opens up part of the door to the stairs.
+ * Conga leader zombie. Travels in patrol path around dance floor
+ * Follower zombies
 
-If the head zombie see's you as a zombie, 
+= Level 5: Flame Thrower =
 
- * conga leader zombie. Travels in patrol path (around switch?)
- * follower zombies
+ * Four flame throwing zombies 
+    * around perimeter of level
+    * Can throw flames up to 3 grid squares
+    * Will kill darwin in human or zombie form
+ * Snake zombies:
+    * charge darwin at medium speed when on the same X or Y axis as them
+    * they want to push darwin towards the flame thrower
+ * Block puzzle
+    * need to arrange blocks in the level to open the door
+
+ * You get easily killed in this level
+ * If this level is too easy, add random goo spots
+ * If darwin is a zombie, then the snakes don;t attack you. Only implement this if there is no potion. 
