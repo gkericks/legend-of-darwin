@@ -36,3 +36,26 @@ When you're a zombie:
  * If darwin is a zombie, then the snakes don't attack you. Only implement this if there is no potion. 
 
 = Level 6: Final Boss =
+
+ * Boss zombie
+    * Four grid size
+    * Moves every little, a couple squares back and forth
+    * Boss wil spit out potions and goo
+    * boss will have 3 states: 
+        # walking
+        # chucking
+        # gape
+    * he will only eat baby zombies when he is gapeing
+    * cannot damage darwin as a zombie
+
+ * Baby Zombies
+    * Two cribs, where the baby zombies keep coming out of
+    * Standard amount of life -  when the end of their life gets close, they blink, then EXPLODE!
+    * Explosions take up every square around the baby
+    * these are CRAZY ZOMBIE BABIES
+    * baby zombies follow darwin all the time, zombie or human
+
+Need to lead the baby zombies to the boss 
+ * need to be a zombie near the boss, or else the boss will kill you
+
+
