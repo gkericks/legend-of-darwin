@@ -8,7 +8,7 @@
     * add exclamation mark when zombie sees darwin
     * add question mark when zombies do not see darwin anymore
  * Speed up default zombie
- * Make the screen and grid size bigger
+ * ~~Make the screen and grid size bigger!!
  * fix bug: zombies kills you when you're not beside it...
 
 = Level 4: Conga Line =
