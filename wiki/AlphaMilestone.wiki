@@ -10,6 +10,7 @@
  * Speed up default zombie
  * ~~Make the screen and grid size bigger!!
  * fix bug: zombies kills you when you're not beside it...
+ * Possibly improve controls (get rid of spacebar for exiting)
 
 = Level 4: Conga Line =
 
