@@ -20,6 +20,6 @@ If a task is not on the list, add it.
  * Draw sprites for:
    * flamethrower zombie
    * snakes
-   * pushable boxes _Marli_
+   * pushable boxes
    * black pit
  * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
