@@ -1,0 +1,20 @@
+#who is doing what
+
+= Tasks=
+
+If you are doing a task, put your name beside it. 
+When it's done, cross it out.
+If a task is not on the list, add it.
+
+ * ~~Create Level 4 class~~
+ * Basic conga zombies
+ * Head Conga Zombie
+ * Set up Level 4 Layout
+ * Draw sprite for Head Conga Zombie
+ *
+ * ~~Create Level 5 class~~
+ * Create Box object
+ * Create snakes
+ * create flamethrower zombies
+ * create black pit
+ * Draw sprite for flamethrower, snakes, boxes & black pit
