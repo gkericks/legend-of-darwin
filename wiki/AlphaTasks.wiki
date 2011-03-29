@@ -1,5 +1,3 @@
-#who is doing what
-
 = Tasks=
 
 If you are doing a task, put your name beside it. 
