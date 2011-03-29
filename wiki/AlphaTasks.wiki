@@ -10,7 +10,8 @@ If a task is not on the list, add it.
  * Set up Level 4 Layout
  * Draw sprite for Head Conga Zombie
  * ~~Fixing current sprites~~
- * Adjust Cannibal zombie and fast zombie to use sprite strips _Marli_
+ * ~~Adjust Cannibal zombie to use sprite strips for ! and ?~~
+ * Adjust Fast zombie to use a sprite strip for awake and asleep _Marli_
  * ~~Create Level 5 class~~
  * Create Box object
  * Create snakes _Brittany_
