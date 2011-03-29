@@ -8,7 +8,7 @@ If a task is not on the list, add it.
  * Basic conga zombies
  * Head Conga Zombie _Graham_
  * Set up Level 4 Layout
- * Draw sprite for Head Conga Zombie
+ * ~~Draw sprite for Head Conga Zombie~~
  * ~~Fixing current sprites~~
  * ~~Adjust Cannibal zombie to use sprite strips for ! and ?~~
  * Adjust Fast zombie to use a sprite strip for awake and asleep _Marli_
@@ -17,5 +17,9 @@ If a task is not on the list, add it.
  * Create snakes _Brittany_
  * create flamethrower zombies
  * create black pit
- * Draw sprite for flamethrower, snakes, boxes & black pit
+ * Draw sprites for:
+ ** flamethrower zombie
+ ** snakes
+ ** pushable boxes
+ ** black pit
  * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
