@@ -15,7 +15,7 @@ If a task is not on the list, add it.
  * ~~Create Level 5 class~~
  * Create Box object
  * Create snakes _Brittany_
- * create flamethrower zombies
+ * create flamethrower zombies _Ryan_
  * create black pit
  * Draw sprites for:
    * flamethrower zombie
