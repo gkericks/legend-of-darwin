@@ -14,6 +14,9 @@ If a task is not on the list, add it.
  * ~~Adjust Fast zombie to use a sprite strip for awake and asleep~~
  * ~~Create Level 5 class~~
  * Create Box object _Marli_
+   * I'm breaking this into two classes:
+     # ~~A box class for the actual box you can push around~~
+     # A box pattern class that will check all of the squares in its pattern for boxes, and if they have one it will return completed and play a noise
  * Create snakes _Brittany_
  * create flamethrower zombies _Ryan_
  * create black pit
