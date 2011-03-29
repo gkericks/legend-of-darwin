@@ -12,7 +12,7 @@ If a task is not on the list, add it.
  * Fixing current sprites _Marli_
  * ~~Create Level 5 class~~
  * Create Box object
- * Create snakes
+ * Create snakes _Brittany_
  * create flamethrower zombies
  * create black pit
  * Draw sprite for flamethrower, snakes, boxes & black pit
