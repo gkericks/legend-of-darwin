@@ -6,7 +6,7 @@ If a task is not on the list, add it.
 
  * ~~Create Level 4 class~~
  * Basic conga zombies
- * Head Conga Zombie
+ * Head Conga Zombie _Graham_
  * Set up Level 4 Layout
  * Draw sprite for Head Conga Zombie
  *
