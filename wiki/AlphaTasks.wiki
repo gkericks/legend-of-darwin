@@ -18,7 +18,7 @@ If a task is not on the list, add it.
  * create flamethrower zombies
  * create black pit
  * Draw sprites for:
- ** flamethrower zombie
+   * flamethrower zombie
  ** snakes
  ** pushable boxes
  ** black pit
