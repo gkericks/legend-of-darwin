@@ -11,9 +11,9 @@ If a task is not on the list, add it.
  * ~~Draw sprite for Head Conga Zombie~~
  * ~~Fixing current sprites~~
  * ~~Adjust Cannibal zombie to use sprite strips for ! and ?~~
- * Adjust Fast zombie to use a sprite strip for awake and asleep _Marli_
+ * ~~Adjust Fast zombie to use a sprite strip for awake and asleep~~
  * ~~Create Level 5 class~~
- * Create Box object
+ * Create Box object _Marli_
  * Create snakes _Brittany_
  * create flamethrower zombies _Ryan_
  * create black pit
@@ -21,5 +21,5 @@ If a task is not on the list, add it.
    * flamethrower zombie
    * snakes
    * pushable boxes
-   * black pit
+   * black pit _Marli_
  * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
