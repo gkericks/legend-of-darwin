@@ -8,7 +8,8 @@ If a task is not on the list, add it.
  * Basic conga zombies
  * Head Conga Zombie _Graham_
  * Set up Level 4 Layout _Graham_
- * Set up Level 5 Layout _Marli_
+ * ~~Set up Level 5 Layout~~
+   * Basically done except for the box puzzle layout
  * Set up Level 6 Layoyt _Jeff_
  * ~~Draw sprite for Head Conga Zombie~~
  * ~~Fixing current sprites~~
@@ -24,7 +25,8 @@ If a task is not on the list, add it.
  * Draw sprites for:
    * flamethrower zombie
    * snakes
-   * pushable boxes
+   * pushable boxes _Marli_
+   * sparkles _Marli_
    * ~~black pit~~
  * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
 
