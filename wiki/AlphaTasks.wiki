@@ -8,7 +8,7 @@ If a task is not on the list, add it.
  * Basic conga zombies
  * Head Conga Zombie _Graham_
  * Set up Level 4 Layout _Graham_
- * Set up Level 5 Layout _Marli_
+ * ~~Set up Level 5 Layout~~ _Marli_
  * Set up Level 6 Layoyt _Jeff_
  * ~~Draw sprite for Head Conga Zombie~~
  * ~~Fixing current sprites~~
@@ -20,12 +20,12 @@ If a task is not on the list, add it.
    # ~~A box pattern class that will check all of the squares in its pattern for boxes, and if they have one it will return completed and play a noise~~
  * Create snakes _Brittany_
  * create flamethrower zombies _Ryan_
- * create black pit
+ * ~~create black pit - vortex~~
  * Draw sprites for:
    * flamethrower zombie
    * snakes
    * pushable boxes
-   * black pit
+   * ~~black pit~~
  * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
 
  * Splodin Baby Zombies & level 6 _jeff_
