@@ -4,6 +4,7 @@ If you are doing a task, put your name beside it.
 When it's done, cross it out.
 If a task is not on the list, add it.
 
+*Tasks*
  * ~~Create Level 4 class~~
  * Basic conga zombies _Graham_
  * Head Conga Zombie _Graham_
@@ -21,18 +22,22 @@ If a task is not on the list, add it.
  * Create snakes _Brittany_
  * create flamethrower zombies _Ryan_
  * ~~create black pit - vortex~~
- * Draw sprites for:
-   * ~~Head Conga Zombie~~
-   * flamethrower zombie
-   * snakes _Brittany_
-   * ~~pushable boxes~~
-   * ~~sparkles~~
-   * ~~black pit~~
-   * boss zombie
-   * baby zombies
-   * conga follower zombies?
-   * 
- * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
-
  * Splodin Baby Zombies & level 6 _jeff_
  * Boss zombie
+
+*Sprites*
+ * ~~Head Conga Zombie~~
+ * flamethrower zombie
+ * snakes _Brittany_
+ * ~~pushable boxes~~
+ * ~~sparkles~~
+ * ~~black pit~~
+ * boss zombie
+ * baby zombies
+   * explosions
+ * conga follower zombies?
+ * nursery/crib thingy
+
+*Bugs*
+ * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
+ * ~~Can't Pick up Potions~~
