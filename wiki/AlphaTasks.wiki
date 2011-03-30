@@ -9,6 +9,7 @@ If a task is not on the list, add it.
  * Head Conga Zombie _Graham_
  * Set up Level 4 Layout _Graham_
  * Set up Level 5 Layout _Marli_
+ * Set up Level 6 Layoyt _Jeff_
  * ~~Draw sprite for Head Conga Zombie~~
  * ~~Fixing current sprites~~
  * ~~Adjust Cannibal zombie to use sprite strips for ! and ?~~
