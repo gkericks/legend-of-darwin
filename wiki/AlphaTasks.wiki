@@ -5,9 +5,10 @@ When it's done, cross it out.
 If a task is not on the list, add it.
 
  * ~~Create Level 4 class~~
- * Basic conga zombies
+ * Basic conga zombies _Graham_
  * Head Conga Zombie _Graham_
- * Set up Level 4 Layout _Graham_
+ * ~~Set up Level 4 Layout~~ _Graham_
+   * just need to make zombies
  * ~~Set up Level 5 Layout~~
    * Basically done except for the box puzzle layout
  * Set up Level 6 Layoyt _Jeff_
