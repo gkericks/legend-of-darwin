@@ -24,6 +24,7 @@ If a task is not on the list, add it.
  * ~~create black pit - vortex~~
  * Splodin Baby Zombies & level 6 _jeff_
  * Boss zombie
+ * Add a "You just died animation to Darwin"
 
 *Sprites*
  * ~~Head Conga Zombie~~
