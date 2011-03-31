@@ -27,7 +27,7 @@ If a task is not on the list, add it.
  * Add a "You just died animation to Darwin"
  * Level 5: Need to put back objects(blocks, snakes) on "Reset"
  * Add sounds
- * Improve Level 1 design: add more zombies
+ * ~~Improve Level 1 design: add more zombies~~
  * Improve level 3 design: more leaves,& more walls and/or zombies?
  * Add "help" message bubbles in new levels
  * add intro splash pages for each level? (introduce zombies?)
