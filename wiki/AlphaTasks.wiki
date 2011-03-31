@@ -29,6 +29,8 @@ If a task is not on the list, add it.
  * Add sounds
  * Improve Level 1 design: add more zombies
  * Improve level 3 design: more leaves,& more walls and/or zombies?
+ * Add "help" message bubbles in new levels
+ * add intro splash pages for each level? (introduce zombies?)
 
 *Sprites*
  * ~~Head Conga Zombie~~
