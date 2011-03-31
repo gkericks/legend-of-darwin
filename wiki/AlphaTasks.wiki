@@ -25,6 +25,7 @@ If a task is not on the list, add it.
  * Splodin Baby Zombies & level 6 _jeff_
  * Boss zombie
  * Add a "You just died animation to Darwin"
+ * Level 5: Need to put back objects(blocks, snakes) on "Reset"
 
 *Sprites*
  * ~~Head Conga Zombie~~
@@ -42,3 +43,6 @@ If a task is not on the list, add it.
 *Bugs*
  * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
  * ~~Can't Pick up Potions~~
+ * Level 5: sometimes snakes/darwin can walk through blocks
+ * Level 5: can push blocks past black pit
+ * 
