@@ -49,7 +49,7 @@ If a task is not on the list, add it.
  * ~~baby zombies~~
    * ~~explosions~~
  * conga follower zombies?
- * nursery/crib thingy
+ * ~~nursery/crib thingy~~
 
 *Bugs*
  * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
