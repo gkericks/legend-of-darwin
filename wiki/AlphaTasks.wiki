@@ -20,7 +20,7 @@ If a task is not on the list, add it.
    # ~~A box class for the actual box you can push around~~
    # ~~A box pattern class that will check all of the squares in its pattern for boxes, and if they have one it will return completed and play a noise~~
  * ~~Create snakes ~~
- * create flamethrower zombies _Ryan_
+ * ~~create flamethrower zombies ~~
  * ~~create black pit - vortex~~
  * Splodin Baby Zombies & level 6 _jeff_
  * Boss zombie _jeff_
