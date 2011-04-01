@@ -32,8 +32,8 @@ If a task is not on the list, add it.
  * Improve level 3 design: more leaves,& more walls and/or zombies? _ryan_
  * Add "help" message bubbles in new levels
  * add intro splash pages for each level? (introduce zombies?)
- * animate flames flapping _Marli_
- * fix flamethorower zombie sprite _Marli_
+ * ~~animate flames flapping~~
+ * ~~fix flamethorower zombie sprite~~
 
 *Sprites*
  * ~~Head Conga Zombie~~
@@ -52,7 +52,7 @@ If a task is not on the list, add it.
  * ~~nursery/crib thingy~~
 
 *Bugs*
- * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
+ * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot _Marli - I'll check this but i think its resolved_
  * ~~Can't Pick up Potions~~
  * ~~Level 5: sometimes snakes/darwin can walk through blocks~~
  * Level 5: darwin can walk backward through the snakes _Brittany_
