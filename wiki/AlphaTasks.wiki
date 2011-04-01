@@ -12,7 +12,7 @@ If a task is not on the list, add it.
    * ~~just need to make zombies~~
  * ~~Set up Level 5 Layout~~
    * ~~Basically done except for the box puzzle layout~~
- * Set up Level 6 Layoyt _Jeff_
+ * ~~Set up Level 6 Layout ~~
  * ~~Adjust Cannibal zombie to use sprite strips for ! and ?~~
  * ~~Adjust Fast zombie to use a sprite strip for awake and asleep~~
  * ~~Create Level 5 class~~
@@ -22,16 +22,15 @@ If a task is not on the list, add it.
  * ~~Create snakes ~~
  * ~~create flamethrower zombies ~~
  * ~~create black pit - vortex~~
- * Splodin Baby Zombies & level 6 _jeff_
- * Boss zombie _jeff_
- * Add a "You just died animation to Darwin"
+ * ~~ Splodin Baby Zombies ~~  
+ * Boss zombie _graham_
  * ~~Level 5: Need to put back objects(blocks, snakes) on "Reset"~~
  * ~~Level 5: link to level 6 when you Win~~
  * Add sounds
  * ~~Improve Level 1 design: add more zombies~~
  * ~~Improve level 3 design: more leaves,& more walls and/or zombies?~~
  * Add "help" message bubbles in new levels
- * add intro splash pages for each level? (introduce zombies?)
+ * add intro splash pages for each level _Jeff_
  * ~~animate flames flapping~~
  * ~~fix flamethorower zombie sprite~~
 
@@ -50,6 +49,8 @@ If a task is not on the list, add it.
    * ~~explosions~~
  * ~~conga follower zombies?~~
  * ~~nursery/crib thingy~~
+ * Boss eating bomb-baby animation
+ * Add a "You just died animation to Darwin"
 
 *Bugs*
  * ~~There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot ~~
@@ -60,3 +61,4 @@ If a task is not on the list, add it.
  * ~~Level 5: snakes not killed by fire~~
  * ~~ Do zombies still kill you when you are not beside them? ~~
   *  They don't seem to.  I moved the update order around on lvls 1-4 and that seems to have fixed it.
+ * Level 3: fast zombie doesn't kill you bug _Ryan_
