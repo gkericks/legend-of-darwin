@@ -52,7 +52,7 @@ If a task is not on the list, add it.
  * ~~nursery/crib thingy~~
 
 *Bugs*
- * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot _Marli - I'll check this but i think its resolved_
+ * ~~There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot ~~
  * ~~Can't Pick up Potions~~
  * ~~Level 5: sometimes snakes/darwin can walk through blocks~~
  * Level 5: darwin can walk backward through the snakes _Brittany_
