@@ -45,7 +45,7 @@ If a task is not on the list, add it.
  * ~~black pit~~
  * ~~hanniblector mask for cannible zombie~~
  * ~~axe for conga zombie~~
- * boss zombie
+ * ~~boss zombie~~
  * ~~baby zombies~~
    * ~~explosions~~
  * conga follower zombies?
