@@ -53,6 +53,7 @@ If a task is not on the list, add it.
  * There's a weird bug that sometimes pops up where a zombie kills you but instead of having a game over you teleport back to the starting spot
  * ~~Can't Pick up Potions~~
  * Level 5: sometimes snakes/darwin can walk through blocks
- * Level 5: can push blocks past black pit
+ * Level 5: can push blocks past black pit _Marli_
+ * Level 5: block reset _Marli_
  * Do zombies still kill you when you are not beside them?
    They don't seem to.  I moved the update order around on lvls 1-4 and that seems to have fixed it.
