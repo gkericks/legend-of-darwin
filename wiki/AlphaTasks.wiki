@@ -35,6 +35,7 @@ If a task is not on the list, add it.
 *Sprites*
  * ~~Head Conga Zombie~~
  * flamethrower zombie
+ * flames
  * ~~ snakes ~~ 
  * ~~pushable boxes~~
  * ~~sparkles~~
