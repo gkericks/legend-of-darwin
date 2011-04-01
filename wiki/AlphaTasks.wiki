@@ -57,5 +57,6 @@ If a task is not on the list, add it.
  * ~~Level 5: sometimes snakes/darwin can walk through blocks~~
  * Level 5: darwin can walk backward through the snakes _Brittany_
  * ~~Level 5: can push blocks past black pit~~
+ * ~~Level 5: snakes not killed by fire~~
  * ~~ Do zombies still kill you when you are not beside them? ~~
   *  They don't seem to.  I moved the update order around on lvls 1-4 and that seems to have fixed it.
