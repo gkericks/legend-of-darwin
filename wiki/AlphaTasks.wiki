@@ -44,8 +44,8 @@ If a task is not on the list, add it.
  * hanniblector mask for cannible zombie
  * axe for conga zombie
  * boss zombie
- * baby zombies
-   * explosions
+ * ~~baby zombies~~
+   * ~~explosions~~
  * conga follower zombies?
  * nursery/crib thingy
 
