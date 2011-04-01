@@ -32,6 +32,8 @@ If a task is not on the list, add it.
  * Improve level 3 design: more leaves,& more walls and/or zombies? _ryan_
  * Add "help" message bubbles in new levels
  * add intro splash pages for each level? (introduce zombies?)
+ * animate flames flapping _Marli_
+ * fix flamethorower zombie sprite _Marli_
 
 *Sprites*
  * ~~Head Conga Zombie~~
