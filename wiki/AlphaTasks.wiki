@@ -48,7 +48,7 @@ If a task is not on the list, add it.
  * ~~boss zombie~~
  * ~~baby zombies~~
    * ~~explosions~~
- * conga follower zombies?
+ * ~~conga follower zombies?~~
  * ~~nursery/crib thingy~~
 
 *Bugs*
