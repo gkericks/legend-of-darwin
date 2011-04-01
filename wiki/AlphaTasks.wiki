@@ -11,7 +11,7 @@ If a task is not on the list, add it.
  * ~~Set up Level 4 Layout~~
    * ~~just need to make zombies~~
  * ~~Set up Level 5 Layout~~
-   * Basically done except for the box puzzle layout _Marli_
+   * ~~Basically done except for the box puzzle layout~~
  * Set up Level 6 Layoyt _Jeff_
  * ~~Adjust Cannibal zombie to use sprite strips for ! and ?~~
  * ~~Adjust Fast zombie to use a sprite strip for awake and asleep~~
@@ -40,6 +40,8 @@ If a task is not on the list, add it.
  * ~~pushable boxes~~
  * ~~sparkles~~
  * ~~black pit~~
+ * hanniblector mask for cannible zombie
+ * axe for conga zombie
  * boss zombie
  * baby zombies
    * explosions
