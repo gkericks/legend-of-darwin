@@ -2,8 +2,8 @@
 
 If you are doing a task, put your name beside it. When it's done, cross it out. If a task is not on the list, add it.
 
- * Implement Darwin dying by fire in Level 4
- * Implement Darwin dying by zombie in other levels
+ * ~~Implement Darwin dying by fire in Level 4~~
+ * ~~Implement Darwin dying by zombie in other levels~~
  * Balance Level 1
  * Balance Level 2
  * ~~Balance Level 3 (more leaves, add more zombies, fast zombies or snakes?) *needs to be harder* ~~
@@ -45,7 +45,7 @@ _Marli_
 
  * New potion texture _Jeff_
  * ~~Boss eating bomb baby~~
- * You just died Darwin
+ * ~~You just died Darwin~~
  * New floor pattern
  * Colourful disco floor for conga line level
  * half eaten zombie parts/skeletons around cannibal zombie
