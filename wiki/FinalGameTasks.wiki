@@ -40,6 +40,7 @@ _Marli_
  * Loop song over entire game, not restart every level/death
  * ~~Boss can't eat another baby while there is a baby in his mouth~~ 
  * Darwin can walk through zombie babies when they are blinking
+ * All the snakes vibrate after any of them push you into the pit
 
 = Sprites =
 
