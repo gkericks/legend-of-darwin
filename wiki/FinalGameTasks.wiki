@@ -39,6 +39,7 @@ _Marli_
  * Level 3 fast zombie doesn't kill you when he's in guarding mode
  * Loop song over entire game, not restart every level/death
  * ~~Boss can't eat another baby while there is a baby in his mouth~~ 
+ * Darwin can walk through zombie babies when they are blinking
 
 = Sprites =
 
