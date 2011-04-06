@@ -14,7 +14,8 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Create menu area
  * Implement death counter (report # deaths...)
 
-= Sounds = _Marli_
+= Sounds =
+_Marli_
  * On ! and ? for zombie
  * Crying babies
  * Potion
@@ -44,3 +45,4 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Colourful disco floor for conga line level
  * half eaten zombie parts/skeletons around cannibal zombie
  * new texture for pit in level 4
+ * Darwin walking (left, right, and down)
