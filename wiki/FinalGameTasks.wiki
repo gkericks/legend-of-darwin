@@ -34,7 +34,7 @@ _Marli_
 
 = Bugs =
 
- * Fix reset positions in levels
+ * Fix reset positions in levels _Jeff_
  * Make sure walls/switches reset
  * Level 3 fast zombie doesn't kill you when he's in guarding mode
  * Loop song over entire game, not restart every level/death
@@ -42,7 +42,7 @@ _Marli_
 
 = Sprites =
 
- * New potion texture
+ * New potion texture _Jeff_
  * ~~Boss eating bomb baby~~
  * You just died Darwin
  * New floor pattern
