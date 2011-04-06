@@ -14,8 +14,20 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Create menu area
  * Implement death counter (report # deaths...)
 
-= Sounds =
-..._Marli_
+= Sounds = _Marli_
+ * On ! and ? for zombie
+ * Crying babies
+ * Potion
+ * reveal stairs
+ * rustling
+ * flame shooting
+ * switch
+ * Conga death by axe
+ * Transform to Darwin
+ * Should we do these
+ * Conga music??
+ * Death By Zombie
+
 
 = Bugs =
 
