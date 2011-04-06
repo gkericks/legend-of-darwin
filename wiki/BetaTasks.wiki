@@ -1,5 +1,0 @@
-= Tasks =
-
-If you are doing a task, put your name beside it. When it's done, cross it out. If a task is not on the list, add it.
-
- * 
