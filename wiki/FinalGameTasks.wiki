@@ -1,0 +1,34 @@
+= Tasks =
+
+If you are doing a task, put your name beside it. When it's done, cross it out. If a task is not on the list, add it.
+
+ * Implement Darwin dying by fire in Level 4
+ * Implement Darwin dying by zombie in other levels
+ * Balance Level 1
+ * Balance Level 2
+ * Balance Level 3 (more leaves, add more zombies, fast zombies or snakes?) *harder*
+ * Balance Level 4
+ * Balance Level 5
+ * Balance Level 6 
+ * Redo splash screens in between levels _Brittany_
+ * Create menu area
+ * Implement death counter (report # deaths...)
+
+= Sounds =
+..._Marli_
+
+= Bugs =
+
+ * Fix reset positions in levels
+ * Level 3 fast zombie doesn't kill you when he's in guarding mode
+ * Loop song over entire game, not restart every level/death
+
+= Sprites =
+
+ * New potion texture
+ * Boss eating bomb baby
+ * You just died Darwin
+ * New floor pattern
+ * Colourful disco floor for conga line level
+ * half eaten zombie parts/skeletons around cannibal zombie
+ * new texture for pit in level 4
