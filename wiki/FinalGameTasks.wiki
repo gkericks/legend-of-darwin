@@ -39,7 +39,7 @@ _Marli_
 = Sprites =
 
  * New potion texture
- * Boss eating bomb baby
+ * Boss eating bomb baby _Britt_
  * You just died Darwin
  * New floor pattern
  * Colourful disco floor for conga line level
