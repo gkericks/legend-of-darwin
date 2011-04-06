@@ -13,7 +13,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Redo splash screens in between levels _Brittany_
  * Create menu area
  * Implement death counter (report # deaths...) _Jeff_
- * Explosion when boss eats a baby _Britt_
+ * ~~Explosion when boss eats a baby~~
 
 
 = Sounds =
@@ -49,5 +49,6 @@ _Marli_
  * New floor pattern
  * Colourful disco floor for conga line level
  * half eaten zombie parts/skeletons around cannibal zombie
+ * half eaten baby parts and skeletons around Zombie Boss
  * new texture for pit in level 4
  * Darwin walking (left, right, and down)
