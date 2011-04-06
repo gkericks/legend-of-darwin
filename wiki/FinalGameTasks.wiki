@@ -38,7 +38,7 @@ _Marli_
  * Make sure walls/switches reset
  * Level 3 fast zombie doesn't kill you when he's in guarding mode
  * Loop song over entire game, not restart every level/death
- * Boss can't eat another baby while there is a baby in his mouth _Britt_
+ * ~~Boss can't eat another baby while there is a baby in his mouth~~ 
 
 = Sprites =
 
