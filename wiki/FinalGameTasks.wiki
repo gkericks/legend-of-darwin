@@ -33,6 +33,7 @@ _Marli_
 = Bugs =
 
  * Fix reset positions in levels
+ * Make sure walls/switches reset
  * Level 3 fast zombie doesn't kill you when he's in guarding mode
  * Loop song over entire game, not restart every level/death
 
