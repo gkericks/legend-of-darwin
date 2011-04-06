@@ -12,7 +12,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Balance Level 6 
  * Redo splash screens in between levels _Brittany_
  * Create menu area
- * Implement death counter (report # deaths...)
+ * Implement death counter (report # deaths...) _Jeff_
  * Explosion when boss eats a baby _Britt_
 
 
