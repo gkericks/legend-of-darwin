@@ -6,7 +6,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Implement Darwin dying by zombie in other levels
  * Balance Level 1
  * Balance Level 2
- * Balance Level 3 (more leaves, add more zombies, fast zombies or snakes?) *needs to be harder* _ryan_
+ * ~~Balance Level 3 (more leaves, add more zombies, fast zombies or snakes?) *needs to be harder* ~~
  * Balance Level 4
  * Balance Level 5
  * Balance Level 6 
