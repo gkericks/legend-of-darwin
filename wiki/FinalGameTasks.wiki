@@ -19,14 +19,14 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
 = Sounds =
 _Marli_
  * On ! and ? for zombie
- * Crying babies
- * Potion
- * reveal stairs
- * rustling
+ * ~~Crying babies~~
+ * ~~Potion~~
+ * ~~reveal stairs~~
+ * ~~rustling~~
  * flame shooting
- * switch
+ * ~~switch~~
  * Conga death by axe
- * Transform to Darwin
+ * ~~Transform to Darwin~~
  * Should we do these
  * Conga music??
  * Death By Zombie
