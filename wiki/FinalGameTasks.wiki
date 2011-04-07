@@ -28,10 +28,10 @@ _Marli_
  * ~~rustling~~
  * flame shooting
  * ~~switch~~
- * Conga death by axe
  * ~~Transform to Darwin~~
  * ~~Death By Zombie~~
  * Add sound for when cannibal zombie eats a regular zombie
+ * Boss sound
 
 
 = Bugs =
@@ -53,12 +53,11 @@ _Marli_
 
 = Sprites =
 
- * New potion texture _Jeff_
+ * ~~New potion texture~~
  * ~~Boss eating bomb baby~~
  * ~~You just died Darwin~~
- * New floor pattern
- * Colourful disco floor for conga line level
+ * Colourful disco floor for conga level
  * half eaten zombie parts/skeletons around cannibal zombie
  * half eaten baby parts and skeletons around Zombie Boss
- * new texture for pit in level 4
- * Darwin walking (left, right, and down)
+ * new texture for pit in level 5
+ * ~~Darwin walking (left, right, and down)~~
