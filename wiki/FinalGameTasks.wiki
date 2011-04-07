@@ -38,12 +38,12 @@ _Marli_
 
 = Bugs =
 
- * Fix Reste in Level 1 (Make sure walls/switches reset)
- * Fix Reste in Level 2 (Make sure walls/switches reset)
- * Fix Reste in Level 3 (Make sure walls/switches reset)
- * Fix Reste in Level 4 (Make sure walls/switches reset)
- * Fix Reste in Level 5 (Make sure walls/switches reset)
- * Fix Reste in Level 6 (Make sure walls/switches reset)
+ * Fix Reset in Level 1 (Make sure walls/switches reset)
+ * Fix Reset in Level 2 (Make sure walls/switches reset)
+ * Fix Reset in Level 3 (Make sure walls/switches reset)
+ * Fix Reset in Level 4 (Make sure walls/switches reset)
+ * Fix Reset in Level 5 (Make sure walls/switches reset)
+ * Fix Reset in Level 6 (Make sure walls/switches reset)
  * ~~Level 3 fast zombie doesn't kill you when he's in guarding mode~~
  * ~~Loop song over entire game, not restart every level/death~~
  * ~~Boss can't eat another baby while there is a baby in his mouth~~ 
