@@ -15,6 +15,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Implement death counter (report # deaths...) _Jeff_
  * ~~Explosion when boss eats a baby~~
  * Make boss have LOTS of explosions on him for a couple seconds when he dies
+ * Map 'Q' button to start of game
 
 = Sounds =
 _Marli_
