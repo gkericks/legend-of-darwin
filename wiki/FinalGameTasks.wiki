@@ -31,7 +31,7 @@ _Marli_
  * ~~Transform to Darwin~~
  * ~~Death By Zombie~~
  * Add sound for when cannibal zombie eats a regular zombie
- * Boss sound
+ * Add boss sound during gape
 
 
 = Bugs =
