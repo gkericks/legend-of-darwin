@@ -12,10 +12,12 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Balance Level 6 
  * Redo splash screens in between levels _Brittany_
  * ~~Create menu area~~
- * Implement death counter (report # deaths...) _Jeff_
+ * ~~Implement death counter (report # deaths...) ~~
  * ~~Explosion when boss eats a baby~~
  * Make boss have LOTS of explosions on him for a couple seconds when he dies
+ * Put explosion sound on Boss
  * Map 'Q' button to start of game
+
 
 = Sounds =
 _Marli_
@@ -31,17 +33,25 @@ _Marli_
  * Should we do these
  * Conga music??
  * Death By Zombie
+ * Add sound for when cannibal zombie eats a regular zombie
 
 
 = Bugs =
 
- * Fix reset positions in levels _Jeff_
- * Make sure walls/switches reset
- * Level 3 fast zombie doesn't kill you when he's in guarding mode
- * Loop song over entire game, not restart every level/death
+ * Fix Reste in Level 1 (Make sure walls/switches reset)
+ * Fix Reste in Level 2 (Make sure walls/switches reset)
+ * Fix Reste in Level 3 (Make sure walls/switches reset)
+ * Fix Reste in Level 4 (Make sure walls/switches reset)
+ * Fix Reste in Level 5 (Make sure walls/switches reset)
+ * Fix Reste in Level 6 (Make sure walls/switches reset)
+ * ~~Level 3 fast zombie doesn't kill you when he's in guarding mode~~
+ * ~~Loop song over entire game, not restart every level/death~~
  * ~~Boss can't eat another baby while there is a baby in his mouth~~ 
- * Darwin can walk through zombie babies when they are blinking
+ * Darwin can walk through zombie babies when they are blinking *Keep this as a feature*
  * All the snakes vibrate after any of them push you into the pit
+ * Reset health after finish level 6 (or reset game...)
+ * Boss kills Darwin when he is dead
+ * Vortex should match level 5 hole death (sound and graphics)
 
 = Sprites =
 
