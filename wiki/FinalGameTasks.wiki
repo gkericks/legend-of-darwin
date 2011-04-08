@@ -15,8 +15,8 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * ~~Implement death counter (report # deaths...) ~~
  * ~~Explosion when boss eats a baby~~
  * ~~Make boss have LOTS of explosions on him for a couple seconds when he dies~~ _Jeff_
- * ~~Put explosion sound on Boss~~ _Jeff_
- * Map 'Q' button to start of game _ryan_
+ * ~~Put explosion sound on Boss~~ 
+ * ~~Map 'Q' button to start of game~~
 
 
 = Sounds =
@@ -48,7 +48,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Reset health after finish level 6 (or reset game...)
  * Boss kills Darwin when he is dead
  * ~~Vortex should match level 5 hole death (sound and graphics)~~
- * infinite loop of restart/death after restarting game from pressing q
+ * infinite loop of restart/death after restarting game from pressing q _ryan_
 
 = Sprites =
 
