@@ -27,8 +27,8 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * ~~switch~~
  * ~~Transform to Darwin~~
  * ~~Death By Zombie~~
- * flame shooting - SOUND: Flames.wav
- * Add sound for when cannibal zombie eats a regular zombie - SOUND: OmNom.wav
+ * ~~flame shooting~~
+ * Add sound for when cannibal zombie eats a regular zombie - SOUND: OmNom.wav - PLAYS, BUT NEEDS A FLAG SO IT ONLY PLAYS ONCE, Ctrl+F for eatSound.Play() to fix this.
  * Add boss sound during gape (sound is already committed) - SOUND: Zombie_Groan.wav
 
 
