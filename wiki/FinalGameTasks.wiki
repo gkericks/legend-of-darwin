@@ -16,7 +16,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * ~~Explosion when boss eats a baby~~
  * Make boss have LOTS of explosions on him for a couple seconds when he dies
  * Put explosion sound on Boss
- * Map 'Q' button to start of game
+ * Map 'Q' button to start of game _ryan_
 
 
 = Sounds =
@@ -56,7 +56,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * ~~You just died Darwin~~
  * Colourful disco floor for conga level
         * Put dance floor in level _Graham_
- * half eaten zombie parts/skeletons around cannibal zombie
+ * half eaten zombie parts/skeletons around cannibal zombie _ryan_
  * half eaten baby parts and skeletons around Zombie Boss
  * ~~new texture for pit in level 5~~
  * ~~Darwin walking (left, right, and down)~~
