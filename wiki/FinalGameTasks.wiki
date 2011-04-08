@@ -47,7 +47,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * All the snakes vibrate after any of them push you into the pit
  * Reset health after finish level 6 (or reset game...)
  * Boss kills Darwin when he is dead
- * Vortex should match level 5 hole death (sound and graphics)
+ * Vortex should match level 5 hole death (sound and graphics) _Graham_
 
 = Sprites =
 
