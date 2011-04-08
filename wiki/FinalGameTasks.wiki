@@ -59,6 +59,5 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * ~~Colourful disco floor for conga level~~
         * ~~Put dance floor in level~~
  * ~~half eaten zombie parts/skeletons around cannibal zombie~~
- * half eaten baby parts and skeletons around Zombie Boss
  * ~~new texture for pit in level 5~~
  * ~~Darwin walking (left, right, and down)~~
