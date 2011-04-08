@@ -57,7 +57,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * ~~You just died Darwin~~
  * Colourful disco floor for conga level
         * Put dance floor in level _Graham_
- * half eaten zombie parts/skeletons around cannibal zombie _ryan_
+ * ~~half eaten zombie parts/skeletons around cannibal zombie~~
  * half eaten baby parts and skeletons around Zombie Boss
  * ~~new texture for pit in level 5~~
  * ~~Darwin walking (left, right, and down)~~
