@@ -48,6 +48,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * Reset health after finish level 6 (or reset game...)
  * Boss kills Darwin when he is dead
  * ~~Vortex should match level 5 hole death (sound and graphics)~~
+ * infinite loop of restart/death after restarting game from pressing q
 
 = Sprites =
 
@@ -58,6 +59,5 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
         * Put dance floor in level _Graham_
  * half eaten zombie parts/skeletons around cannibal zombie _ryan_
  * half eaten baby parts and skeletons around Zombie Boss
- * infinite loop of restart/death after restarting game from pressing q
  * ~~new texture for pit in level 5~~
  * ~~Darwin walking (left, right, and down)~~
