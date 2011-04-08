@@ -11,7 +11,7 @@ If you are doing a task, put your name beside it. When it's done, cross it out. 
  * ~~Balance Level 5~~
  * ~~Balance Level 6~~
  * ~~Redo splash screens in between levels ~~
- * add second start level splash screen _Jeff_
+ * ~~add second start level splash screen ~~
  * ~~Create menu area~~
  * ~~Implement death counter (report # deaths...) ~~
  * ~~Explosion when boss eats a baby~~
